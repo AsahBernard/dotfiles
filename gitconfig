@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = asahb4sci1@gmail.com
+	name = Asah Bernard
